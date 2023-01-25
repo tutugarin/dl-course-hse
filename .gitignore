@@ -5,3 +5,5 @@ wandb/
 *.txt
 *.model
 *.vocab
+
+*/__pycache__/*
